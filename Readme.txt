@@ -1,0 +1,1 @@
+This is an appointment booking application to book an appointment for the patient.
